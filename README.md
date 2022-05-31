@@ -5,8 +5,9 @@ Simplee ToDo is the next app I am working on getting onto the App Store. This is
 ## Roadmap
 
 - Recurring Tasks
+- Widget View
 - Sharing tasks with others
-- asyncrous updates with those that have shared tasks
+- Update tasks between users
 
 ## Privacy Policy
 
