@@ -14,4 +14,4 @@ No data is stored on a server. All task data, at this time, is stored on the use
 
 ## Support
 
-If you require support, or have a suggestion please feel free to reach out to me! Simplee Weather Dev Team
+If you require support, or have a suggestion please feel free to reach out to me! <a href="mailto:scottcoburndev@gmail.com">Simplee Weather Dev Team</a>
